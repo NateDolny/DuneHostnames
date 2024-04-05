@@ -1,7 +1,8 @@
 # Dune Hostnames 
-## Author: Nate Dolny 
 
-## Description: 
+Author: Nate Dolny | Date: April 3, 2024
+
+**Description:**
 
 Inspired by the iconic book series Dune, authored by Frank Herbert, 
 Dune Hostnames offers a comprehensive array of naming schemes for 
