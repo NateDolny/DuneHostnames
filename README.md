@@ -22,6 +22,7 @@ Distributed under the GNU General Public License v2(GPLv2).
 **Planets**
 - Caladan 
 - Arrakis 
+- Giedi Prime
 
 **Great Houses**
 - Atreides
