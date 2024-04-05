@@ -4,7 +4,7 @@ Author: Nate Dolny | Date: April 4, 2024
 
 **Description:**
 
-Inspired by the iconic book series Dune, authored by Frank Herbert, 
+Inspired by the iconic book series Dune, authored by Frank Herbert.
 Dune Hostnames offers a comprehensive array of naming schemes for 
 network infrastructure, workstations, servers, and other devices. 
 Distributed under the GNU General Public License v2(GPLv2).
