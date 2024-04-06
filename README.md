@@ -37,4 +37,11 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Bene Gesserit 
 - Spacing Guild
 
+**Creatures**
+- Shai-Hulud
+- Sandworm 
+
+**Items**
+- stillsuits
+
 **Note:** List will be updated as I read more of the book 
