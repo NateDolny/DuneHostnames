@@ -12,9 +12,14 @@ Distributed under the GNU General Public License v2(GPLv2).
 
 **Characters**
 - Paul 
-- Jessica
-- Leto
-- Reverend Mother
+- Usul
+- Lady Jessica
+- Duke Leto
+- Gurney Halleck
+- Thufir Hawat
+- Duncan Idaho
+- Dr. Wellington Yueh
+- Reverend Mother Gaius Helen Mohiam
 - Piter
 - Baron Vladimir Harkonnen
 - Feyd Rautha
