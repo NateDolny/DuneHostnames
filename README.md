@@ -20,6 +20,7 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Duncan Idaho
 - Dr. Wellington Yueh
 - Dr. Kynes
+- Shadout Mapes
 - Reverend Mother Gaius Helen Mohiam
 - Piter
 - Baron Vladimir Harkonnen
@@ -53,5 +54,6 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Stillsuits
 - Melange
 - Orange Catholic Bible
+- Crysknife
 
 **Note:** List will be updated as I read more of the book 
