@@ -29,6 +29,8 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Caladan 
 - Arrakis 
 - Giedi Prime
+- Richesse
+- IX
 
 **Great Houses**
 - Atreides
@@ -38,6 +40,9 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Bene Gesserit 
 - Spacing Guild
 - Suk 
+
+**Organizations** 
+- CHOAM (Combine Honnete Ober Advancer Mercantiles)
 
 **Creatures**
 - Shai-Hulud
