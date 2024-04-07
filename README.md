@@ -36,6 +36,7 @@ Distributed under the GNU General Public License v2(GPLv2).
 **Ancient Schools**
 - Bene Gesserit 
 - Spacing Guild
+- Suk 
 
 **Creatures**
 - Shai-Hulud
