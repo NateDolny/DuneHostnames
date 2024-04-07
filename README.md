@@ -19,6 +19,7 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Thufir Hawat
 - Duncan Idaho
 - Dr. Wellington Yueh
+- Dr. Kynes
 - Reverend Mother Gaius Helen Mohiam
 - Piter
 - Baron Vladimir Harkonnen
@@ -44,5 +45,6 @@ Distributed under the GNU General Public License v2(GPLv2).
 
 **Items**
 - stillsuits
+- melange
 
 **Note:** List will be updated as I read more of the book 
