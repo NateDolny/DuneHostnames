@@ -10,7 +10,7 @@ network infrastructure, workstations, servers, and other devices.
 Distributed under the GNU General Public License v2(GPLv2).
 
 
-**Characters**
+### **Characters**
 
 Atreides:
 
@@ -43,7 +43,7 @@ Harkonnes:
 - Feyd Rautha
 
 
-**Planets**
+### **Planets**
 - Caladan 
 - Arrakis 
 - Giedi Prime
@@ -51,23 +51,23 @@ Harkonnes:
 - IX
 - Salusa Secundus
 
-**Great Houses**
+### **Great Houses**
 - Atreides
 - Harkonnens
 
-**Ancient Schools**
+### **Ancient Schools**
 - Bene Gesserit 
 - Spacing Guild
 - Suk 
 
-**Organizations** 
+### **Organizations** 
 - CHOAM (Combine Honnete Ober Advancer Mercantiles)
 
-**Creatures**
+### **Creatures**
 - Shai-Hulud
 - Sandworm 
 
-**Items**
+### **Items**
 - Stillsuits
 - Melange
 - Orange Catholic Bible
