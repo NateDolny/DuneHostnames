@@ -12,6 +12,10 @@ Distributed under the GNU General Public License v2(GPLv2).
 
 ### **Characters**
 
+Corrino:
+- Emperor Shaddam IV
+
+
 Atreides:
 
 - Paul 
