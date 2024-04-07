@@ -10,9 +10,11 @@ network infrastructure, workstations, servers, and other devices.
 Distributed under the GNU General Public License v2(GPLv2).
 
 
-**Characters**
+### **Characters**
+
+Atreides:
+
 - Paul 
-- Usul
 - Lady Jessica
 - Duke Leto
 - Gurney Halleck
@@ -20,13 +22,28 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Duncan Idaho
 - Dr. Wellington Yueh
 - Dr. Kynes
+
+
+Fremen:
+
+- Usul
 - Shadout Mapes
+
+
+Bene Gesserit:
+
+- Lady Jessica
 - Reverend Mother Gaius Helen Mohiam
-- Piter
+
+
+Harkonnes:
+
 - Baron Vladimir Harkonnen
+- Piter
 - Feyd Rautha
 
-**Planets**
+
+### **Planets**
 - Caladan 
 - Arrakis 
 - Giedi Prime
@@ -34,23 +51,23 @@ Distributed under the GNU General Public License v2(GPLv2).
 - IX
 - Salusa Secundus
 
-**Great Houses**
+### **Great Houses**
 - Atreides
 - Harkonnens
 
-**Ancient Schools**
+### **Ancient Schools**
 - Bene Gesserit 
 - Spacing Guild
 - Suk 
 
-**Organizations** 
+### **Organizations** 
 - CHOAM (Combine Honnete Ober Advancer Mercantiles)
 
-**Creatures**
+### **Creatures**
 - Shai-Hulud
 - Sandworm 
 
-**Items**
+### **Items**
 - Stillsuits
 - Melange
 - Orange Catholic Bible
