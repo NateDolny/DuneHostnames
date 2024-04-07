@@ -11,8 +11,10 @@ Distributed under the GNU General Public License v2(GPLv2).
 
 
 **Characters**
+
+Atreides:
+
 - Paul 
-- Usul
 - Lady Jessica
 - Duke Leto
 - Gurney Halleck
@@ -20,11 +22,26 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Duncan Idaho
 - Dr. Wellington Yueh
 - Dr. Kynes
+
+
+Fremen:
+
+- Usul
 - Shadout Mapes
+
+
+Bene Gesserit:
+
+- Lady Jessica
 - Reverend Mother Gaius Helen Mohiam
-- Piter
+
+
+Harkonnes:
+
 - Baron Vladimir Harkonnen
+- Piter
 - Feyd Rautha
+
 
 **Planets**
 - Caladan 
