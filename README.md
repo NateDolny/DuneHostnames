@@ -56,6 +56,7 @@ Harkonnes:
 - Salusa Secundus
 
 ### **Great Houses**
+- Corrino
 - Atreides
 - Harkonnens
 
