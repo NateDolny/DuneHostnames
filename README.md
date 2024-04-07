@@ -44,7 +44,7 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Sandworm 
 
 **Items**
-- stillsuits
-- melange
-
+- Stillsuits
+- Melange
+- Orange Catholic Bible
 **Note:** List will be updated as I read more of the book 
