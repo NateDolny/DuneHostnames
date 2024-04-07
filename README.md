@@ -31,6 +31,7 @@ Distributed under the GNU General Public License v2(GPLv2).
 - Giedi Prime
 - Richesse
 - IX
+- Salusa Secundus
 
 **Great Houses**
 - Atreides
