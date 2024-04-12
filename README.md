@@ -32,12 +32,15 @@ Fremen:
 
 - Usul
 - Shadout Mapes
+- Stilgar 
+- Turok 
 
 
 Bene Gesserit:
 
 - Lady Jessica
 - Reverend Mother Gaius Helen Mohiam
+- Wanna Marcus 
 
 
 Harkonnes:
@@ -77,5 +80,11 @@ Harkonnes:
 - Melange
 - Orange Catholic Bible
 - Crysknife
+- Lasgun 
+- Hunterseeker 
+- Sonic Probes
+- Ducal Signet 
+- Solaris 
+- Guild Heighliner 
 
 **Note:** List will be updated as I read more of the book 
