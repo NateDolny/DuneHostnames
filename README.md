@@ -12,6 +12,10 @@ Distributed under the GNU General Public License v2(GPLv2).
 
 ### **Characters**
 
+Corrino:
+- Emperor Shaddam IV
+
+
 Atreides:
 
 - Paul 
@@ -28,12 +32,15 @@ Fremen:
 
 - Usul
 - Shadout Mapes
+- Stilgar 
+- Turok 
 
 
 Bene Gesserit:
 
 - Lady Jessica
 - Reverend Mother Gaius Helen Mohiam
+- Wanna Marcus 
 
 
 Harkonnes:
@@ -52,6 +59,7 @@ Harkonnes:
 - Salusa Secundus
 
 ### **Great Houses**
+- Corrino
 - Atreides
 - Harkonnens
 
@@ -72,5 +80,11 @@ Harkonnes:
 - Melange
 - Orange Catholic Bible
 - Crysknife
+- Lasgun 
+- Hunterseeker 
+- Sonic Probes
+- Ducal Signet 
+- Solaris 
+- Guild Heighliner 
 
 **Note:** List will be updated as I read more of the book 
